@@ -1,6 +1,5 @@
 numpy
-pandas 
-matplotlib.pyplot 
+pandas
+matplotlib
 seaborn
-sklearn
-sklearn.cluster
+scikit-learn
